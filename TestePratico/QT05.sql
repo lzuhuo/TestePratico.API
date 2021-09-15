@@ -1,1 +1,0 @@
-SELECT SUM(Age) as Soma FROM Cats

@@ -1,2 +1,0 @@
-SELECT * FROM Dogs
-WHERE Age IN (SELECT MIN(Age) FROM Dogs)
